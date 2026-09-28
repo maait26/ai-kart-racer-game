@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1790627515|15316718';
+const CACHE_VERSION = '1790630375|9629430';
 /** @type {string} */
 const CACHE_PREFIX = 'AI Kart Racer-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
